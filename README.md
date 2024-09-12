@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Jeongsoheeme/LeetCode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Jeongsoheeme/LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Jeongsoheeme/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0322-coin-change](https://github.com/Jeongsoheeme/LeetCode/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/Jeongsoheeme/LeetCode/tree/master/0542-01-matrix) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Jeongsoheeme/LeetCode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Jeongsoheeme/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1014-k-closest-points-to-origin](https://github.com/Jeongsoheeme/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 ## Geometry
@@ -174,4 +176,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Jeongsoheeme/LeetCode/tree/master/0238-product-of-array-except-self) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Jeongsoheeme/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
