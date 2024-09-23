@@ -4,7 +4,7 @@
  * @return {number}
  */
 var search = function(nums, target) {
-        let start = 0, end = nums.length - 1;
+    let start = 0, end = nums.length - 1;
     let mid = Math.floor((start + end) / 2);
     while (start <= end) {
         mid = Math.floor((start + end) / 2);
